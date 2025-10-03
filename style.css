@@ -4,15 +4,29 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: inter;
+}
+
+h2 {
+  color: #0C0910;
+}
+
 img {
-  width: 300px;
+  width: 100%;
+  width: 30vw;
 }
 
 .card {
-  background-color: gray;
+  background-color: #9882AC;
   border: 10px solid #857da8;
 }
 
 #btn1 {
-  background-color: green;
+  background-color: #453750;
+  width: 100%;
+}
+
+header {
+  background-color: #73648A;
 }/*# sourceMappingURL=style.css.map */
